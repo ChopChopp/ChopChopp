@@ -1,6 +1,7 @@
 # Ciao! / Hi!
 
-- 🔭 I study computer science at the University of Applied Sciences (ZHAW) in Zurich
+- 🔭 I study computer science part-time at the University of Applied Sciences (ZHAW) in Zurich
+- 💼 I work part time at UBS
 - 🌱 I’m currently learning how to learn 
 - 💬 Ask me about anything shell neural networks 
 - ⚡ Fun fact: rm -rf / can help clear up useless bloat
