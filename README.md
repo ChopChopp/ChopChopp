@@ -5,15 +5,19 @@
 - 💬 Ask me about anything shell neural networks 
 - ⚡ Fun fact: rm -rf / can help clear up useless bloat
 
----
 
 ## 📊 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChopChopp&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChopChopp&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChopChopp&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<details>
+<summary><b>📊 More Stats</b></summary>
+<br>
 
----
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChopChopp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChopChopp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChopChopp&theme=github_dark&utcOffset=1)
+</details>
 
 ## 🤝 Let's Connect
 
